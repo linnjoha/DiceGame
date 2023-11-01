@@ -1,4 +1,4 @@
-# DiceGame
+# DiceGame https://linnjoha.github.io/DiceGame/
 
 Tärningsspel
 Stegen
